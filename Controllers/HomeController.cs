@@ -18,6 +18,13 @@ namespace ECommerceWebsite.Controllers
             return View();
         }
 
+        public IActionResult IndexEcom()
+        {
+            return View();
+        }
+
+        
+
         public IActionResult Privacy()
         {
             return View();
