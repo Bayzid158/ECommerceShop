@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\eCommerce\\ECommerceWebsite\\ECommerceWebsite.csproj": {}
+    "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\ECommerceWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\eCommerce\\ECommerceWebsite\\ECommerceWebsite.csproj": {
+    "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\ECommerceWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\eCommerce\\ECommerceWebsite\\ECommerceWebsite.csproj",
+        "projectUniqueName": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\ECommerceWebsite.csproj",
         "projectName": "ECommerceWebsite",
-        "projectPath": "C:\\Personal\\eCommerce\\ECommerceWebsite\\ECommerceWebsite.csproj",
-        "packagesPath": "C:\\Users\\bayzid.rahaman\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\eCommerce\\ECommerceWebsite\\obj\\",
+        "projectPath": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\ECommerceWebsite.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bayzid.rahaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://packagesource": {},
           "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
@@ -61,10 +62,6 @@
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[6.0.0, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.16, )"
             }
           },
           "imports": [
@@ -86,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

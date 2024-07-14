@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ECommerceWebsite
 build_property.RootNamespace = ECommerceWebsite
-build_property.ProjectDir = C:\Personal\eCommerce\ECommerceWebsite\
+build_property.ProjectDir = D:\Software Solution\IQRA\JCX\ECommerceShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Personal\eCommerce\ECommerceWebsite
+build_property.MSBuildProjectDirectory = D:\Software Solution\IQRA\JCX\ECommerceShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/CartCheckout/Cart.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/CartCheckout/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENoZWNrb3V0XENhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/CartCheckout/Checkout.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/CartCheckout/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENoZWNrb3V0XENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Customer/LoginRegister.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Customer/LoginRegister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTG9naW5SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Customer/MyAccount.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Customer/MyAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTXlBY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Home/Index.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Home/IndexEcom.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Home/IndexEcom.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleEVjb20uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Home/Privacy.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Product/SingleProduct.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Product/SingleProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaW5nbGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Shared/Error.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/_ViewImports.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/_ViewStart.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Shared/_Layout.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xa7l1khx67
 
-[C:/Personal/eCommerce/ECommerceWebsite/Views/Shared/_LayoutEcom.cshtml]
+[D:/Software Solution/IQRA/JCX/ECommerceShop/Views/Shared/_LayoutEcom.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFY29tLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-1fcf2yvhqn
