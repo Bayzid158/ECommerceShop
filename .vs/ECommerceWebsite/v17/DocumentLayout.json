@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB51662-E46C-4F05-9526-C36B8C26BEC4}|ECommerceWebsite.csproj|d:\\software solution\\iqra\\jcx\\ecommerceshop\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB51662-E46C-4F05-9526-C36B8C26BEC4}|ECommerceWebsite.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB51662-E46C-4F05-9526-C36B8C26BEC4}|ECommerceWebsite.csproj|d:\\software solution\\iqra\\jcx\\ecommerceshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CCB51662-E46C-4F05-9526-C36B8C26BEC4}|ECommerceWebsite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T06:25:09.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Software Solution\\IQRA\\JCX\\ECommerceShop\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-25T06:24:40.583Z",
-              "EditorCaption": ""
             }
           ]
         }
